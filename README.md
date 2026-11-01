@@ -78,7 +78,7 @@ Uma seleção de projetos, aplicações web e soluções digitais desenvolvidas 
 |---|---|---|
 | **SICON** | Sistema web de informação e gestão. | [Acessar projeto](https://sicon-sigc.vercel.app) |
 | **Electoral Command Center** | Central de comando digital e interface de gerenciamento eleitoral. | [Acessar projeto](https://nova-conversa-plum.vercel.app) |
-| **D&V Premium Services** | Site profissional para empresa de serviços de limpeza. | [Acessar projeto](https://testedvp.vercel.app) |
+| **D&V Premium Services** | Site profissional para empresa internacional de serviços de limpeza. | [Acessar projeto](https://testedvp.vercel.app) |
 
 ### 🌱 Soluções Digitais Especializadas
 
